@@ -1,1 +1,1 @@
-# Androi studio project for college
+# Android studio project for college
