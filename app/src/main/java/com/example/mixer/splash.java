@@ -14,9 +14,12 @@ public class splash extends AppCompatActivity {
         setContentView(R.layout.activity_splash);
         getSupportActionBar().hide();
 
+
+        //runs  the run function after 3 seconds
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
+                //go to main activity
                 Intent i=new Intent(splash.this,MainActivity.class);
                 startActivity(i);
                 finish();

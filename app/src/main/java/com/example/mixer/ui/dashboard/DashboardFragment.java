@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 import com.example.mixer.databinding.FragmentDashboardBinding;
-
+//Nothing to see here
 public class DashboardFragment extends Fragment {
 
 private FragmentDashboardBinding binding;
