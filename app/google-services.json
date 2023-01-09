@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176942112639",
+    "project_id": "mixer-5b28c",
+    "storage_bucket": "mixer-5b28c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176942112639:android:39e8f5fbf0c467ee83444a",
+        "android_client_info": {
+          "package_name": "com.example.mixer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176942112639-i9uf08a5ls5ertka03c6rr0cvcej8phs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAFI27SH-lPlHC8Imh1MUMP4P6X0aVMkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176942112639-i9uf08a5ls5ertka03c6rr0cvcej8phs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
